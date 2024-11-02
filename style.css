@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     line-height: 1.6;
-    background-color: #f4f4f4;
-    color: #333;
+    background-color: #2c3e50; /* Cor de fundo verde escuro */
+    color: #ecf0f1; /* Texto em cor clara para contraste */
 }
 
 header {
-    background: #007bff;
+    background: #27ae60; /* Verde escuro para o cabeçalho */
     color: #fff;
     padding: 10px 0;
     text-align: center;
@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    background: #0056b3;
+    background: #219150; /* Verde mais claro ao passar o mouse */
 }
 
 main {
@@ -39,19 +39,19 @@ main {
 section {
     margin: 20px 0;
     padding: 20px;
-    background: #fff;
+    background: #34495e; /* Cor de fundo das seções em azul escuro */
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 section h2 {
-    color: #007bff;
+    color: #27ae60; /* Verde escuro para os títulos das seções */
 }
 
 footer {
     text-align: center;
     padding: 15px 0;
-    background: #007bff;
+    background: #27ae60; /* Verde escuro para o rodapé */
     color: #fff;
     position: relative;
     bottom: 0;
